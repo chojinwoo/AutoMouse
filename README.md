@@ -1,7 +1,11 @@
 # AutoMouse
 AutoMouse
-Python
+Python<br>
 Multi Platform Auto Clicker
+<br>
+Python Plugin 
+tkinter
+pyautogui<br>
 
 shortkey
 MousePosition Capture = alt + c
