@@ -7,9 +7,9 @@ Python Plugin
 tkinter
 pyautogui<br>
 
-shortkey
-MousePosition Capture = alt + c
-AutoClicker Start = Alt + s
-AutoClicker Stop = Alt + p
-File Save = Ctrl + s
-File Load = Ctrl + l
+shortkey<br>
+MousePosition Capture = alt + c<br>
+AutoClicker Start = Alt + s<br>
+AutoClicker Stop = Alt + p<br>
+File Save = Ctrl + s<br>
+File Load = Ctrl + l<br>
